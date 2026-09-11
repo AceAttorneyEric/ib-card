@@ -1,0 +1,4 @@
+output/
+recent_games/
+__pycache__/
+*.pyc
