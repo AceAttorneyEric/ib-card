@@ -1,0 +1,92 @@
+[
+  {
+    "position": 1,
+    "name": "Super Mario 3D World + Bowser's Fury",
+    "game_id": 138227,
+    "cover_id": "cobb2d.jpg",
+    "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobb2d.jpg",
+    "file": "01.jpg",
+    "updated_at": "2026-09-11T21:23:55.000Z"
+  },
+  {
+    "position": 2,
+    "name": "Super Mario Run",
+    "game_id": 23796,
+    "cover_id": "co1te0.jpg",
+    "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1te0.jpg",
+    "file": "02.jpg",
+    "updated_at": "2026-09-11T21:23:43.000Z"
+  },
+  {
+    "position": 3,
+    "name": "Donkey Kong Bananza",
+    "game_id": 338106,
+    "cover_id": "cobd1q.jpg",
+    "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobd1q.jpg",
+    "file": "03.jpg",
+    "updated_at": "2026-09-11T21:23:32.000Z"
+  },
+  {
+    "position": 4,
+    "name": "Peglin",
+    "game_id": 133512,
+    "cover_id": "co4oot.jpg",
+    "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4oot.jpg",
+    "file": "04.jpg",
+    "updated_at": "2026-09-11T21:23:19.000Z"
+  },
+  {
+    "position": 5,
+    "name": "The Gardens Between",
+    "game_id": 27324,
+    "cover_id": "geovgtecshgrr1ksmzyy.jpg",
+    "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/geovgtecshgrr1ksmzyy.jpg",
+    "file": "05.jpg",
+    "updated_at": "2026-09-11T21:22:54.000Z"
+  },
+  {
+    "position": 6,
+    "name": "Mario Kart World",
+    "game_id": 338067,
+    "cover_id": "cob9s9.jpg",
+    "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9s9.jpg",
+    "file": "06.jpg",
+    "updated_at": "2026-09-11T21:22:38.000Z"
+  },
+  {
+    "position": 7,
+    "name": "Pokémon Champions",
+    "game_id": 333568,
+    "cover_id": "co9gu3.jpg",
+    "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9gu3.jpg",
+    "file": "07.jpg",
+    "updated_at": "2026-09-11T21:22:23.000Z"
+  },
+  {
+    "position": 8,
+    "name": "Pokémon Violet",
+    "game_id": 191930,
+    "cover_id": "co5sfa.jpg",
+    "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5sfa.jpg",
+    "file": "08.jpg",
+    "updated_at": "2026-09-11T21:21:50.000Z"
+  },
+  {
+    "position": 9,
+    "name": "Kingdom Hearts Dream Drop Distance HD",
+    "game_id": 117525,
+    "cover_id": "co8m1w.jpg",
+    "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8m1w.jpg",
+    "file": "09.jpg",
+    "updated_at": "2026-09-11T01:41:40.000Z"
+  },
+  {
+    "position": 10,
+    "name": "Kingdom Hearts III",
+    "game_id": 2933,
+    "cover_id": "co1tpy.jpg",
+    "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tpy.jpg",
+    "file": "10.jpg",
+    "updated_at": "2026-09-11T01:41:40.000Z"
+  }
+]
