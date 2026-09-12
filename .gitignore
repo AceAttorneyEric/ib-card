@@ -2,3 +2,5 @@ output/
 recent_games/
 __pycache__/
 *.pyc
+old files/
+template/ace-card.png
